@@ -9,6 +9,7 @@ A script that creates automatic certificates for the junior company "Síntese Jr
 Use the package manager pip to install pandas and pillow
 
 ```bash
+pip install wheel
 pip install pandas
 pip install Pillow
 ```
